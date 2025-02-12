@@ -1,0 +1,20 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+## REALLUSION Auto Setup for Unreal Engine
+Content/CC_Shaders/*
+!Content/CC_Shaders/README.md
+Plugins/RLPlugin/*
+!Plugins/RLPlugin/README.md
